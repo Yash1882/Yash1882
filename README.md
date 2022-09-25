@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gadre</h1>
-<h3 align="center">I'm passionate about my work!</h3>
+<h3 align="center">I'm passionate about creating new things!</h3>
 
 - 🔭 I’m currently working on **polishing my problem solving skills...**
 
