@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **polishing my problem solving skills...**
 
-- 🌱 I’m currently learning **Data structures & algorithms...**
+- 🌱 Mastered On **Data structures & algorithms...**
 
 - 📫 How to reach me **yashgadre1882@gmail.com**
 
