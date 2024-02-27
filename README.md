@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Gadre</h1>
 <h3 align="center">I'm passionate about creating new things!</h3>
+<h3 align="center">𝐒𝐭𝐫𝐨𝐧𝐠 𝐠𝐫𝐚𝐬𝐩 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬</h3>
+<h3 align="center">𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐢𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐧𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐢𝐜 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠. </h3>
+
 
 - 📫 How to reach me **yashgadre1882@gmail.com**
 
