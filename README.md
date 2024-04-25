@@ -2,8 +2,8 @@
 🔭 I'm currently working on advanced data structures.  
 🌱 Looking to collaborate on open source projects.  
 👯 Seeking help with operating systems and AI.  
-💬 Ask me about SQL and algorithms.  
-⚡ Fun fact: I transform abstract concepts into real-world tech applications.  
+💬 Ask me about Database and algorithms.  
+⚡ Depth knowledge of DBMS,OS,OOPS & OOPS  
 📫 How to reach me: [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com)
 
 ## 🌐 Socials:
