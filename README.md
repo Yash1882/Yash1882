@@ -19,12 +19,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash@1882&show_icons=true&theme=radical&title_color=ff6347&icon_color=ffa500&text_color=f8f8ff&bg_color=151515)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash@1882&layout=compact)
-
 
 ## 📊 My GitHub Contributions & Streak
 <table>
