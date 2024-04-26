@@ -2,7 +2,7 @@
 🔭 I'm currently working on advanced data structures.  
 🌱 Looking to collaborate on open source projects.   
 💬 Ask me about Database and algorithms.  
-⚡ Depth knowledge of DBMS,OS,OOPS & OOPS  
+⚡ Depth knowledge of DBMS,OS and OOPS.  
 📫 How to reach me: [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com)
 
 ## 🌐 Socials:
@@ -30,26 +30,25 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash1882" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=Yash1882&theme=react-dark" />
     </td>
   </tr>
 </table>
 
 ## 🏆 My GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&column=3&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yash1882&column=3&theme=algolia)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YourGitHubUsername&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Yash@1882&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yash@1882&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
