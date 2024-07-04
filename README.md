@@ -2,7 +2,7 @@
 🔭 I'm currently working on advanced data structures.  
 🌱 Looking to collaborate on open source projects.   
 💬 Ask me about Database and algorithms.  
-⚡ Depth knowledge of DBMS,OS and OOPS.  
+⚡ Depth knowledge of DBMS,OS,CN and OOPS.  
 📫 How to reach me: [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com)
 
 ## 🌐 Socials:
