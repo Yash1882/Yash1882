@@ -66,7 +66,7 @@
       <br>ReactJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sql" alt="SQL icon" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL icon" width="65" height="65" />
       <br>SQL
     </td>
     <td align="center" width="96">
