@@ -65,8 +65,8 @@
         <img src="https://skillicons.dev/icons?i=react" alt="ReactJS icon" width="48" height="48" />
       <br>ReactJS
     </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL icon" width="65" height="65" />
+   <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL icon" width="48" height="48" />
       <br>SQL
     </td>
     <td align="center" width="96">
