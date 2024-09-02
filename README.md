@@ -1,13 +1,33 @@
-# 💫 About Me:
-🔭 I'm currently working on advanced data structures.  
-🌱 Looking to collaborate on open source projects.   
-💬 Ask me about Database and algorithms.  
-⚡ Depth knowledge of DBMS,OS,CN and OOPS.  
-📫 How to reach me: [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com)
+![Hello!🖐️ I'm Yash](https://your-cool-animation-link-here)
+
+# 💫 About Me
+
+---
+
+🔭 **Current Focus**:  
+I'm currently working on advanced data structures.
+
+🌱 **Collaboration Interests**:  
+I'm looking to collaborate on open-source projects.
+
+💬 **Expertise**:  
+Feel free to ask me about databases and algorithms. I have in-depth knowledge of DBMS, OS, CN, and OOP concepts.
+
+⚡ **Skills**:  
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Computer Networks (CN)
+- Object-Oriented Programming (OOP)
+
+📫 **Contact**:  
+You can reach me at [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com).
+
+---
+
+![Thanks for visiting!](https://your-awesome-gif-link-here)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashgadre/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashgadre1882@gmail.com)
 
 ## My favorite tools and technologies ⚙️
 
