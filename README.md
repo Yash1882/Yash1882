@@ -126,6 +126,4 @@
 ## 🏆 My GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yash1882&column=3&theme=algolia)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
