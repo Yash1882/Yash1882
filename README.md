@@ -1,7 +1,5 @@
 # Hello, I am <a href="https://www.linkedin.com/in/yashgadre/">Yash</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![](https://activity-graph.herokuapp.com/graph?username=ashwanisng&theme=react-dark&hide_border=true&area=true)
-
 # 💫 About Me
 
 ---
