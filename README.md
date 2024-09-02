@@ -1,7 +1,7 @@
 # Hello, I am <a href="https://www.linkedin.com/in/yashgadre/">Yash</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 # 💫 About Me
-
+I am seeking a dynamic environment where I can tackle challenging projects and collaborate with a diverse team to achieve impactful results
 ---
 
 🔭 **Current Focus**:  
