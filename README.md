@@ -16,7 +16,7 @@ I'm looking to collaborate on open-source projects.
 - Computer Networks (CN)
 - Object-Oriented Programming (OOP)
 
-## Soft skills: ##
+**Soft skills**:
 - Work collaboratively in a team
 - Time management
 - Good communication skills.
