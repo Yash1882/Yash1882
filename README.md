@@ -1,4 +1,4 @@
-![Hello!🖐️ I'm Yash](https://your-cool-animation-link-here)
+![Hello!🖐️ I'm Yash](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 # 💫 About Me
 
@@ -24,7 +24,6 @@ You can reach me at [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com).
 
 ---
 
-![Thanks for visiting!](https://your-awesome-gif-link-here)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashgadre/)
