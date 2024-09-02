@@ -65,6 +65,34 @@
         <img src="https://skillicons.dev/icons?i=react" alt="ReactJS icon" width="48" height="48" />
       <br>ReactJS
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sql" alt="SQL icon" width="48" height="48" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Database-icon.svg" alt="DBMS icon" width="48" height="48" />
+      <br>DBMS
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Object-oriented.svg" alt="OOPs icon" width="48" height="48" />
+      <br>OOPs
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Computer-icon.svg" alt="Operating Systems icon" width="48" height="48" />
+      <br>Operating Systems
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Network_icon.svg" alt="Computer Network icon" width="48" height="48" />
+      <br>Computer Network
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL icon" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
   </tr>
 </table>
 
