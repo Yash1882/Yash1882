@@ -10,10 +10,7 @@ I'm currently working on advanced data structures.
 🌱 **Collaboration Interests**:  
 I'm looking to collaborate on open-source projects.
 
-💬 **Expertise**:  
-Feel free to ask me about databases and algorithms. I have in-depth knowledge of DBMS, OS, CN, and OOP concepts.
-
-⚡ **Skills**:  
+⚡ **CS Fundamentals**:  
 - Database Management Systems (DBMS)
 - Operating Systems (OS)
 - Computer Networks (CN)
