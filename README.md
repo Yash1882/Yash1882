@@ -16,6 +16,13 @@ I'm looking to collaborate on open-source projects.
 - Computer Networks (CN)
 - Object-Oriented Programming (OOP)
 
+## Soft skills: ##
+- Work collaboratively in a team
+- Time management
+- Good communication skills.
+- Open source contribution
+- Versatility
+
 📫 **Contact**:  
 You can reach me at [yashgadre1882@gmail.com](mailto:yashgadre1882@gmail.com).
 
