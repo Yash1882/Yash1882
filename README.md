@@ -9,18 +9,64 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashgadre/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashgadre1882@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#python-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API icon" width="65" height="65" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git icon" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab icon" width="48" height="48" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML icon" width="48" height="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS icon" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap icon" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS icon" width="48" height="48" />
+      <br>ReactJS
+    </td>
+  </tr>
+</table>
 
 
 
