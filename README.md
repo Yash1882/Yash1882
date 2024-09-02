@@ -2,11 +2,11 @@
 
 # 💫 About Me
 
-𝙸 𝚊𝚖 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚊 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚎𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚌𝚊𝚗 𝚝𝚊𝚌𝚔𝚕𝚎 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚠𝚒𝚝𝚑 𝚊 𝚍𝚒𝚟𝚎𝚛𝚜𝚎 𝚝𝚎𝚊𝚖 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚒𝚖𝚙𝚊𝚌𝚝𝚏𝚞𝚕 𝚛𝚎𝚜𝚞𝚕𝚝𝚜 🚀
+I am seeking a dynamic environment where I can tackle challenging projects and collaborate with a diverse team to achieve impactful results 🚀
 ---
 
 🔭 **Current Focus**:  
-I'm currently working on advanced data structures.
+I'm currently working on advanced Data Structures.
 
 🌱 **Collaboration Interests**:  
 I'm looking to collaborate on open-source projects.
