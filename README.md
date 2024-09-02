@@ -93,6 +93,27 @@
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL icon" width="48" height="48" />
       <br>PostgreSQL
     </td>
+    <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow icon" width="48" height="48" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code icon" width="48" height="48" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite icon" width="48" height="48" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy icon" width="48" height="48" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas icon" width="48" height="48" />
+      <br>Pandas
+    </td>
   </tr>
 </table>
 
