@@ -83,7 +83,6 @@ CSS          █████████████░░░░░░░░░
 ---
 
 ## 🏆 My GitHub Trophies
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yash1882&column=3&theme=algolia)
 
 ---
