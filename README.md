@@ -14,11 +14,22 @@
 
 ## 🧠 About Me
 
-> I'm a passionate **Data Analyst** who loves turning raw numbers into compelling stories.
-> I work with Python, SQL, and visualization tools to uncover trends, build dashboards,
+> I'm a passionate **Data Analyst** who loves turning raw numbers into compelling stories.  
+> I work with Python, SQL, and visualization tools to uncover trends, build dashboards,  
 > and support data-driven decisions. Always learning, always exploring 🚀
 
 ---
+
+## 💻 Languages
+
+```
+Python       ████████████████████░░  88%
+SQL          █████████████████████░  92%
+Java         ████████████████░░░░░░  72%
+JavaScript   ███████████████░░░░░░░  68%
+C++          ██████████████░░░░░░░░  65%
+CSS          █████████████░░░░░░░░░  60%
+```
 
 ---
 
