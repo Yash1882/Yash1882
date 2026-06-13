@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yashgadre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Yash1882"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:yash@email.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yashgadre1882@email.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -23,12 +23,12 @@
 ## 💻 Languages
 
 ```
-Python       ████████████████████░░  88%
-SQL          █████████████████████░  92%
-Java         ████████████████░░░░░░  72%
-JavaScript   ███████████████░░░░░░░  68%
-C++          ██████████████░░░░░░░░  65%
-CSS          █████████████░░░░░░░░░  60%
+Python       ████████████████████░░  
+SQL          █████████████████████░  
+Java         ████████████████░░░░░░  
+JavaScript   ███████████████░░░░░░░  
+C++          ██████████████░░░░░░░░  
+CSS          █████████████░░░░░░░░░  
 ```
 
 ---
