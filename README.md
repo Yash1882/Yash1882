@@ -20,4 +20,74 @@
 
 ---
 
-## 💻 Languages
+---
+
+## 🛠️ Tools & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 Soft Skills
+
+| 💬 Strong Communication | 💡 Creative Thinking | 🎯 Leadership | 🔄 Versatility |
+|:---:|:---:|:---:|:---:|
+
+---
+
+## 📚 Coursework
+
+| Course |
+|--------|
+| 📌 Data Structures and Algorithms |
+| 📌 Database Management Systems |
+| 📌 Object Oriented Programming |
+| 📌 Operating Systems |
+| 📌 Computer Networks |
+
+---
+
+## 📊 My GitHub Contributions & Streak
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash1882" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=Yash1882&theme=react-dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 My GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yash1882&column=3&theme=algolia)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash1882&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1882&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash1882&color=58a6ff&style=flat-square" alt="Profile views"/>
+</p>
+
+<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
